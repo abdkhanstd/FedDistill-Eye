@@ -1,7 +1,5 @@
-## Code for our paper: "Beyond parameter sharing: a feature distillation framework for privacy-preserving ophthalmic disease classification"
-
-
-## FedDistill-Eye: Privacy-Preserving Ophthalmic Disease Classification
+## Code for our paper: 
+## "Beyond parameter sharing: a feature distillation framework for privacy-preserving ophthalmic disease classification"
 
 
 This repository contains the implementation of **FedDistill-Eye**, a federated learning framework with knowledge distillation for privacy-preserving ophthalmic disease classification across multiple hospitals.
@@ -107,7 +105,7 @@ Download the self-supervised pretrained model (`best_model.pth`) from:
 
 #### Paper's Pretrained Weights
 Download the pretrained weights used in the paper from:
-- **OneDrive**: [Pretrained Weights](https://stduestceducn-my.sharepoint.com/:f:/g/personal/201714060114_std_uestc_edu_cn/EsMao40xHZRPjDaK_KjR1A0BbTq9_8bTVs8LIM642cGeyw?e=E6QDtQ)
+- **OneDrive**: [Pretrained Weights](https://stduestceducn-my.sharepoint.com/:u:/g/personal/201714060114_std_uestc_edu_cn/ESalEE7DS2NDlxGQzyKkEl8B0pU2zyu_3hYKlKe6lwOuQw?e=vQsDVm&download=1)
 
 Place the downloaded `best_model.pth` in the root directory of the project.
 
