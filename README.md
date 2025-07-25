@@ -1,8 +1,8 @@
-# Paper
-**"Beyond parameter sharing: a feature distillation framework for privacy-preserving
- ophthalmic disease classification"**
+## Code for our paper: "Beyond parameter sharing: a feature distillation framework for privacy-preserving ophthalmic disease classification"
+
 
 ## FedDistill-Eye: Privacy-Preserving Ophthalmic Disease Classification
+
 
 This repository contains the implementation of **FedDistill-Eye**, a federated learning framework with knowledge distillation for privacy-preserving ophthalmic disease classification across multiple hospitals.
 
