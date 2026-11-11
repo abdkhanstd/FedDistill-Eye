@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+datasets/
+weights/best_model.pth
+FedDistill-Eye_full_model_seed*.pth
+results*.json
+venv/
